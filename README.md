@@ -1,10 +1,9 @@
-# teste2
-<h1>Jogo do número secreto</h1>
+# ❓Jogo do número secreto
 
-<h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de Versionamento.</p>
+## Sobre
+<p>Projeto utilizado na disciplina de Versionamento de Código - Curso de Desenvolvimento de Software.</p>
 
-## �� Tecnologias
+## Tecnologias Utilizadas:
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"&gt>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"&gt>
